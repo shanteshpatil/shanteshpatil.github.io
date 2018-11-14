@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Waking Night"
+---
+
 # Waking Night
 
 ## In the beginning
