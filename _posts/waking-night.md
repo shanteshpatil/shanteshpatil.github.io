@@ -1,6 +1,6 @@
 ---
+title: Waking Night
 layout: post
-title:  "Waking Night"
 ---
 
 # Waking Night
