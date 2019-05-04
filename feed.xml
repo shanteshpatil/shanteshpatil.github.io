@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>An Excursion Through the Mind</title>
+    <link href="https://shanteshpatil.github.io/feed.xml" rel="self" />
+    <link href="https://shanteshpatil.github.io" />
+    <updated>2019-05-04T17:47:20+05:30</updated>
+    <author>
+        <name>Shantesh Patil</name>
+    </author>
+    <id>https://shanteshpatil.github.io</id>
+
+    <entry>
+        <title>Another time, Another place</title>
+        <author>
+            <name>Shantesh Patil</name>
+        </author>
+        <link href="https://shanteshpatil.github.io/another-time-another-place.html"/>
+        <id>https://shanteshpatil.github.io/another-time-another-place.html</id>
+
+        <updated>2018-09-16T12:06:36+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shanteshpatil.github.io/media/posts/1/1jwmfju8vvg-tom-van-hoogstraten.jpg" alt="" />
+                    I missed my paperbacks but the convenience of the electronic reading device&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shanteshpatil.github.io/media/posts/1/1jwmfju8vvg-tom-van-hoogstraten.jpg" alt="" />
+                I missed my paperbacks but the convenience of the electronic reading device was hard to beat. Our numbers had dwindled over the years. So a cafe dedicated to book lovers was a rare treat. A last refuge.<br><br>The owner of the cafe never seemed to mind, however long I sat there without ordering anything to eat or drink. Watching someone read seemed to give her the greater pleasure. Roughly half of the cafe's customers were regulars. So newcomers were easily noticed. Most of us tended to stare at them rather unabashedly. I was sure we had managed to scare quite a few of them into never returning. It would have taken them considerable courage to even enter this place, patronised only by the nerds of the city.<br><br>It was time for a caffeine boost before I started the second part of the book. This was a self service cafe so I left my reader at the table to get the last cup of the day. As I stood at the counter waiting for my coffee, the creaking of the wooden door behind open told me someone had entered. I would normally cast a casual glance at anyone who entered but I was too focused on getting my coffee to look back. <br><br>I went back to my table, coffee in hand and picked up my reader. There was a note below it written in a cursive style not common these days. It read "Have you ever questioned your mortality?" Strange question to most? Not to me. I spent many waking days wondering exactly the same. What kind of stranger would ask me the same question through a note?<br><br>I looked around the cafe. I didn’t notice anyone new at first. While most readers tended to rest their books against the table I held it almost upright and much closer to my face. It helped me focus and blocked out my view of anything other than the words. I was curious though and I changed my posture. I needed to know the author of that note. I waited. Perhaps he or she would make himself known to me in due time. I waited for another hour. My coffee remained unfinished. <br><br>I exited the cafe and began walking towards home. The peace of the cafe gave way to the hustle of the streets. I had almost reached my apartment block when I felt someone tap my shoulder. I turned around quickly. A man in an old fashioned suit stared at me nervously. In the current situation it was I who should have been nervous but something about him told me that he meant no harm. I also knew that he was the one who had written the note.<br><br>"What did you mean by the note? Are you threatening to kill me?" I asked. The second question was quite meaningless, as I was too insignificant for anyone to gain anything by my death. His hands went up and he said "Certainly not. But I wasn't sure if anything else would grab you attention?" I wasn't sure why he had sent the note to me in the first place, if he was going to approach me anyway once I stepped outside.<br><br>"If we can grab a quiet place to talk, I can explain everything" he said. No better place than the one I just came from. We had barely sat down when he asked me "What would you do if you knew you were immortal?"<br><br>What would I do if I was an immortal being. Would it even be worth it? Could I go through all of life all over again. No one in history had ever been immortal. I had resigned myself to the fact that it would remain one of life's unanswered questions.
+            ]]>
+        </content>
+    </entry>
+</feed>
